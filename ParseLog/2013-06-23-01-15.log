@@ -1,0 +1,5 @@
+2013-06-23 01:15:21,683 [DEBUG   ] Finish Setting Logger
+2013-06-23 01:15:21,683 [DEBUG   ] getFullList is called
+2013-06-23 01:15:42,369 [DEBUG   ] parsePosterGeneralInfo is called
+2013-06-23 01:15:44,214 [DEBUG   ] parseEachPosterLink is called
+2013-06-23 01:19:57,192 [WARNING ] Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.

@@ -1,0 +1,4 @@
+2013-06-24 13:50:16,928 [DEBUG   ] Finish Setting Logger
+2013-06-24 13:50:16,928 [DEBUG   ] getFullList is called
+2013-06-24 13:50:36,417 [DEBUG   ] parsePosterGeneralInfo is called
+2013-06-24 13:50:38,196 [DEBUG   ] parseEachPosterLink is called
